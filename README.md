@@ -99,10 +99,3 @@ This demonstrates the fundamental workflow of clustering + dimensionality reduct
 
 G. Sai Praneel
 Department of Computer Science & Engineering
-
-📄 A **combined PDF report** for all 5 projects  
-📄 Viva questions & answers  
-📄 Screenshots formatting  
-📄 ZIP structure for submission  
-
-Just tell me!
