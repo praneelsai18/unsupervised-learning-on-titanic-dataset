@@ -1,34 +1,34 @@
 # Unsupervised Learning on Titanic Dataset (Stand-Alone)
 
-## 🧠 Overview
+## Overview
 This project demonstrates the use of **Unsupervised Machine Learning** techniques on a standalone Titanic-like dataset.  
 It includes:
 
-✅ **K-Means Clustering**  
-✅ **PCA Dimensionality Reduction**  
-✅ **Cluster Visualization**  
-✅ No dependency on any previous project  
+**K-Means Clustering**  
+**PCA Dimensionality Reduction**  
+**Cluster Visualization**  
+No dependency on any previous project  
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
-### ✅ 1. Data Preprocessing
+### 1. Data Preprocessing
 - A Titanic dataset is generated inside the script.
 - Categorical features (`Sex`, `Embarked`) are numerically encoded.
 - All features are standardized using `StandardScaler`.
 
-### ✅ 2. Clustering (K-Means)
+### 2. Clustering (K-Means)
 - Apply **K-Means** with 2 clusters.
 - Assign cluster labels to each passenger.
 
-### ✅ 3. Dimensionality Reduction (PCA)
+### 3. Dimensionality Reduction (PCA)
 - Reduce dataset to **2 principal components**.
 - Visualize the clusters in 2D space.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 mini_project_5_titanic_unsupervised/
 │ ├── main.py
@@ -38,7 +38,7 @@ mini_project_5_titanic_unsupervised/
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### Step 1 — Install dependencies
 ```bash
@@ -51,19 +51,19 @@ python main.py
 
 ---
 
-📊 Sample Output
+Sample Output
 
-✅ Titanic Dataset Created Successfully!
-✅ Data Standardized!
-✅ K-Means Clustering Completed!
-✅ PCA Completed!
-📊 Cluster plot saved to /plots/titanic_clusters.png
-✅ Mini Project 5 Completed Successfully!
+Titanic Dataset Created Successfully!
+Data Standardized!
+K-Means Clustering Completed!
+PCA Completed!
+Cluster plot saved to /plots/titanic_clusters.png
+Project Completed Successfully!
 
 
 ---
 
-📈 Visualization
+Visualization
 
 A scatter plot is created using PCA components:
 
@@ -81,7 +81,7 @@ plots/titanic_clusters.png
 
 ---
 
-✅ Conclusion
+Conclusion
 
 In this project, unsupervised learning was successfully applied to the Titanic dataset.
 
@@ -95,7 +95,7 @@ This demonstrates the fundamental workflow of clustering + dimensionality reduct
 
 ---
 
-👨‍💻 Author
+Author
 
 G. Sai Praneel
 Department of Computer Science & Engineering
