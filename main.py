@@ -56,4 +56,5 @@ plt.savefig("plots/titanic_clusters.png")
 
 print("\n Cluster plot saved to /plots/titanic_clusters.png")
 
-print("\n Mini Project 5 Completed Successfully!")
+
+print("\n Project Completed Successfully!")
